@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuqsmWqsgcNXxpdTglXgSvlKyuXrXCcmsI0dVcNb6nbojM3uptpXNYikJpyXV0k/JULmbIa/U9+R7IKHzXYMfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Pulpit\\Studia\\Sem_7\\PRR\\Lab3-4\\Lab3-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
